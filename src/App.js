@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import "./App.css";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard.jsx";
-const API_URL = "http://www.omdbapi.com?apikey=603777b0 " + "&t=";
+const API_URL = "http://www.omdbapi.com?apikey=603777b0 ";
 
 // const movie_1 = {
 //   Title: "M*A*S*H",
